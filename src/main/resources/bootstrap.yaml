@@ -3,3 +3,6 @@ spring:
     config:
       name: ms-eureka-server
       uri: http://localhost:8081
+
+server:
+  port: 8761
