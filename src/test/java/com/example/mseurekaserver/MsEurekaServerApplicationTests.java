@@ -1,4 +1,4 @@
-package com.example.ms_eureka_server;
+package com.example.mseurekaserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
