@@ -2,7 +2,7 @@ spring:
   cloud:
     config:
       name: ms-eureka-server
-      uri: http://ms-config-server:8081
+      uri: https://bootcamp-ms-eureka-server-g3.azurewebsites.net
 
 server:
   port: 8761
