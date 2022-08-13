@@ -4,6 +4,5 @@ spring:
       name: ms-eureka-server
       uri: https://bootcamp-ms-config-server-g3.azurewebsites.net
 
-
 server:
   port: 8761
