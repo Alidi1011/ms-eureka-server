@@ -5,4 +5,4 @@ spring:
       uri: https://bootcamp-ms-config-server-g3.azurewebsites.net
 
 server:
-  port: 8761
+  port: 443
